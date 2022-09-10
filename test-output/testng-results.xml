@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-06T21:03:53 CEST" name="Default suite" finished-at="2022-09-06T21:04:07 CEST" duration-ms="13968">
+    <groups>
+    </groups>
+    <test started-at="2022-09-06T21:03:53 CEST" name="Default test" finished-at="2022-09-06T21:04:07 CEST" duration-ms="13968">
+      <class name="tests.Task2">
+        <test-method is-config="true" signature="createDriver()[pri:0, instance:tests.Task2@6631f5ca]" started-at="2022-09-06T21:03:53 CEST" name="createDriver" finished-at="2022-09-06T21:03:55 CEST" duration-ms="1843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method signature="FindRoute()[pri:0, instance:tests.Task2@6631f5ca]" started-at="2022-09-06T21:03:55 CEST" name="FindRoute" finished-at="2022-09-06T21:04:07 CEST" duration-ms="11579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FindRoute -->
+        <test-method is-config="true" signature="close()[pri:0, instance:tests.Task2@6631f5ca]" started-at="2022-09-06T21:04:07 CEST" name="close" finished-at="2022-09-06T21:04:07 CEST" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tests.Task2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
